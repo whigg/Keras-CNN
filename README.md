@@ -10,7 +10,7 @@ Content:
 
 - Activation functions: In 'A study of Convolutional Neural Networks' [Sorensen(2019)], different activation functions have been given. In this notebook, the accuracty for a model given a specific Activation function is seen. The result is that the ReLU function is better.
 
--asd
+
 
 
 ## Init
