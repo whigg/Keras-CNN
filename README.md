@@ -14,3 +14,13 @@ Content:
 
 
 ## Init
+
+```bash
+! pip install torchvision
+! pip install pandas==0.23.4
+! pip install geopandas
+! pip install keras
+! pip install tensorflow
+! pip install tf-nightly
+! pip install ggplot
+```
