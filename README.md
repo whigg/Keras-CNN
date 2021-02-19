@@ -1,4 +1,4 @@
-# ENGR562_CNN
+# CNN article
 This Repository containg the notebooks used in the Article 'A study of Convolutional Neural Networks' [Sorensen(2019)]. Theoretical knowlagde on CNNs are given there.  The following repository contains
 
 The article and this repository are both made for th3e course 'Information Theory  - ENGR 562' tought at Univercity of British Columbia Okanangan by Doctor Anas Chaaban.
